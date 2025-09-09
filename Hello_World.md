@@ -5,7 +5,6 @@ def print_kit():
     pirnt("Kumoh National
 Institute of Technology.")
 
-
 if __name__ == '__main__':
     print_kit()
     print_hello()
